@@ -1,4 +1,4 @@
-# 🤖 Chatbot do Andin com IA
+# 🤖 Chatbot com IA
 
 Este é um projeto de chatbot com inteligência artificial utilizando o modelo GPT da OpenAI e interface em Python com o Streamlit.
 
