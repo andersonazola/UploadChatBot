@@ -1,0 +1,38 @@
+# 🔒 Arquivos sensíveis
+.env
+*.env
+
+# 🐍 Arquivos Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🔧 Configurações de ambiente
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+*.egg
+
+# 🧪 Arquivos de testes temporários
+*.log
+*.tmp
+
+# 🧠 IDEs/editores
+.vscode/
+.idea/
+*.swp
+
+# 💻 Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# 📦 Distribuição
+build/
+dist/
+*.spec
+
+# 🚫 Arquivos de Streamlit temporários (opcional)
+.streamlit/config.toml
